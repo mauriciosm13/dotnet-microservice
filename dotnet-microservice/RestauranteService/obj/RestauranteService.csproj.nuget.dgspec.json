@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmmendon\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\RestauranteService.csproj": {}
+    "C:\\Users\\vsmen\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\RestauranteService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmmendon\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\RestauranteService.csproj": {
+    "C:\\Users\\vsmen\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\RestauranteService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmmendon\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\RestauranteService.csproj",
+        "projectUniqueName": "C:\\Users\\vsmen\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\RestauranteService.csproj",
         "projectName": "RestauranteService",
-        "projectPath": "C:\\Users\\mmmendon\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\RestauranteService.csproj",
-        "packagesPath": "C:\\Users\\mmmendon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmmendon\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\obj\\",
+        "projectPath": "C:\\Users\\vsmen\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\RestauranteService.csproj",
+        "packagesPath": "C:\\Users\\vsmen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vsmen\\Documents\\GitHub\\dotnet-microservice\\dotnet-microservice\\RestauranteService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mmmendon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vsmen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
